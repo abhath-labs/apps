@@ -34,7 +34,7 @@ In addition the following libraries are also included in the repo. These are to 
 
 - [react-components](packages/react-components/) A reactive (using RxJS) application framework with a number of useful shared components.
 - [react-signer](packages/react-signer/) Signer implementation for apps.
-- [react-query](packages/react-query) Base components that use the RxJS Observable APIs
+- [react-query](packages/react-query) Base components that use the RxJS Observable test APIs
 
 ## Development
 
